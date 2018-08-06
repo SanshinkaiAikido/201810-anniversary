@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   width="1200"
+   height="675"
+   viewBox="0 0 1200 675.00002"
+   sodipodi:docname="2018-10-anniversary-facebook_and_website.svg"
+   inkscape:export-filename="/home/sander/workspace/aikido/201710-eric-graf/facebook.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     id="namedview4"
+     showgrid="false"
+     units="px"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="0.60291665"
+     inkscape:cx="29.780687"
+     inkscape:cy="161.70914"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="0,428.00001"
+       orientation="0,1"
+       id="guide4327"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,360.00001"
+       orientation="0,1"
+       id="guide4329"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3629"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(0,-813.189)"><flowRegion
+       id="flowRegion3631"><rect
+         id="rect3633"
+         width="446.0744"
+         height="109.14587"
+         x="-154.22786"
+         y="705.18604" /></flowRegion><flowPara
+       id="flowPara3635"
+       style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="1383.3052"
+     y="729.57288"
+     id="text3696"><tspan
+       sodipodi:role="line"
+       id="tspan3698"
+       x="1383.3052"
+       y="729.57288"
+       style="font-size:40px;line-height:1.25"> </tspan></text>
+  <image
+     sodipodi:absref="/home/sander/workspace/201810-anniversary/jan_hendrik_verheyen_-_view_of_the_choir_and_tower_of_utrecht_cathedral_-_google_art_project.jpg"
+     xlink:href="jan_hendrik_verheyen_-_view_of_the_choir_and_tower_of_utrecht_cathedral_-_google_art_project.jpg"
+     width="2259.811"
+     height="1800"
+     preserveAspectRatio="none"
+     id="image93"
+     x="-1046.1873"
+     y="-206.69165" />
+</svg>
