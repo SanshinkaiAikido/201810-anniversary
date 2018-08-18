@@ -20,6 +20,8 @@
    inkscape:export-filename="/home/sander/workspace/201810-anniversary/2018-10-anniversary-nl.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
+  <title
+     id="title699">10-jarig jubileumseminar Sanshinkai Aikido Utrecht</title>
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -30,7 +32,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.82492985"
-     inkscape:cx="396.8504"
+     inkscape:cx="184.71115"
      inkscape:cy="561.25985"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -50,8 +52,33 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>10-jarig jubileumseminar Sanshinkai Aikido Utrecht</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sanshinkai Aikido Utrecht</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Sanshinkai Aikido Utrecht</dc:title>
+          </cc:Agent>
+        </dc:publisher>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -62,12 +89,12 @@
     <image
        sodipodi:absref="/home/sander/workspace/201810-anniversary/jan_hendrik_verheyen_-_view_of_the_choir_and_tower_of_utrecht_cathedral_-_google_art_project.jpg"
        xlink:href="jan_hendrik_verheyen_-_view_of_the_choir_and_tower_of_utrecht_cathedral_-_google_art_project.jpg"
-       width="765.82483"
-       height="610"
-       preserveAspectRatio="none"
-       id="image975"
+       y="-1.0583333"
        x="-354.60754"
-       y="-1.0583333" />
+       id="image975"
+       preserveAspectRatio="none"
+       height="610"
+       width="765.82483" />
     <g
        transform="translate(-2.4600718)"
        style="display:inline"
@@ -92,7 +119,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:end;text-anchor:end;fill:#35264f;fill-opacity:1;stroke-width:0.26458332"
            y="48.038605"
            x="196.74702"
-           sodipodi:role="line">19 – 21 oktober 2018</tspan><tspan
+           sodipodi:role="line">26 – 28 oktober 2018</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:end;text-anchor:end;fill:#35264f;fill-opacity:1;stroke-width:0.26458332"
            y="57.779957"
            x="196.74702"
@@ -131,7 +158,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:end;text-anchor:end;fill:#35264f;fill-opacity:1;stroke-width:0.26458332"
            y="117.75218"
            x="196.74702"
-           sodipodi:role="line">vrijdag 19 oktober</tspan><tspan
+           sodipodi:role="line">vrijdag 26 oktober</tspan><tspan
            id="tspan1061-5"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:end;text-anchor:end;fill:#35264f;fill-opacity:1;stroke-width:0.26458332"
            y="125.68968"
@@ -146,7 +173,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:end;text-anchor:end;fill:#35264f;fill-opacity:1;stroke-width:0.26458332"
            y="141.56468"
            x="196.74702"
-           sodipodi:role="line">zaterdag 20 oktober</tspan><tspan
+           sodipodi:role="line">zaterdag 27 oktober</tspan><tspan
            id="tspan1067-7"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:end;text-anchor:end;fill:#35264f;fill-opacity:1;stroke-width:0.26458332"
            y="149.50218"
@@ -181,7 +208,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:end;text-anchor:end;fill:#35264f;fill-opacity:1;stroke-width:0.26458332"
            y="197.12718"
            x="196.74702"
-           sodipodi:role="line">zondag 21 oktober</tspan><tspan
+           sodipodi:role="line">zondag 28 oktober</tspan><tspan
            id="tspan1079-4"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:end;text-anchor:end;fill:#35264f;fill-opacity:1;stroke-width:0.26458332"
            y="205.06468"

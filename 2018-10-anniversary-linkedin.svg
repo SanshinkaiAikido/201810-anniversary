@@ -20,6 +20,8 @@
    inkscape:export-filename="/home/sander/workspace/aikido/201710-eric-graf/linkedin.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
+  <title
+     id="title697">10 Year Anniversary Seminar Sanshinkai Aikido Utrecht</title>
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -28,8 +30,33 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>10 Year Anniversary Seminar Sanshinkai Aikido Utrecht</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sanshinkai Aikido Utrecht</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Sanshinkai Aikido Utrecht</dc:title>
+          </cc:Agent>
+        </dc:publisher>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <defs
@@ -51,7 +78,7 @@
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:zoom="0.93815104"
-     inkscape:cx="768"
+     inkscape:cx="581.46287"
      inkscape:cy="384"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -74,12 +101,12 @@
        style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>  <image
      sodipodi:absref="/home/sander/workspace/201810-anniversary/jan_hendrik_verheyen_-_view_of_the_choir_and_tower_of_utrecht_cathedral_-_google_art_project.jpg"
      xlink:href="jan_hendrik_verheyen_-_view_of_the_choir_and_tower_of_utrecht_cathedral_-_google_art_project.jpg"
-     width="2510.9011"
-     height="2000"
-     preserveAspectRatio="none"
-     id="image158"
+     y="-209.7384"
      x="-974.90112"
-     y="-209.7384" />
+     id="image158"
+     preserveAspectRatio="none"
+     height="2000"
+     width="2510.9011" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:38.49214935px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#35264f;fill-opacity:1;stroke:none;stroke-width:1.6038394"
@@ -100,7 +127,7 @@
        x="1478.2673"
        y="289.08157"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:68.43048859px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:end;text-anchor:end;fill:#35264f;fill-opacity:1;stroke-width:1.6038394"
-       id="tspan1047-9">19 – 21 October 2018</tspan><tspan
+       id="tspan1047-9">26 – 28 October 2018</tspan><tspan
        id="tspan866-3"
        sodipodi:role="line"
        x="1478.2673"
